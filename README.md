@@ -6,7 +6,10 @@ for the series of acrticles  **Welcome to a parallel world**.
 
  
 [link to the first
-article](http://www.scrutator.me/post/2012/04/04/parallel-world-p1.aspx)
+part](http://www.scrutator.me/post/2012/04/04/parallel-world-p1.aspx)
+
+[link to the second
+part](http://www.scrutator.me/post/2012/06/03/parallel-world-p2.aspx) 
 
 
 Installation

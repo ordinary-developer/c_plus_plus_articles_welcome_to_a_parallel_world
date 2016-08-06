@@ -14,6 +14,10 @@ part](http://www.scrutator.me/post/2012/06/03/parallel-world-p2.aspx)
 [link to the third
 part](http://www.scrutator.me/post/2012/08/28/parallel-world-p3.aspx)
 
+[link to the fourth
+part](http://www.scrutator.me/post/2015/08/14/parallel-world-p4.aspx)
+
+
 
 Installation
 ------------
